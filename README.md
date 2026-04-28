@@ -7,7 +7,7 @@ iOS Developer with 3+ years of experience building scalable mobile applications.
 
 ## 🌐 Portfolio
 👉 **View my portfolio:**  
-https://your-portfolio-link.com  
+https://shanmupriyat.github.io/myportfolio/ 
 
 ---
 
