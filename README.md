@@ -1,10 +1,74 @@
-# Fusion-Subscription-App
+# 👋 Hi, I'm Shanmuga Priya T
 
-## 📌 Overview
+## 👩‍💻 iOS Developer
+iOS Developer with 3+ years of experience building scalable mobile applications. Specialized in Swift, UIKit, MVVM architecture, and secure payment integrations like Stripe and Apple Pay.
 
-This application is built using **Swift**, **SwiftUI**, and **MVVM architecture**.
-It provides a simple flow where the user enters a mobile number and is redirected to a plan selection screen.
+---
 
-There is **no OTP verification** in this application.
+## 🌐 Portfolio
+👉 **View my portfolio:**  
+https://your-portfolio-link.com  
 
-All data (plans and features) are **loaded from API**.
+---
+
+## 🚀 Skills
+- Swift
+- UIKit
+- MVVM / MVC Architecture
+- REST API Integration
+- Alamofire
+- Firebase
+- Stripe & Apple Pay Integration
+- Git & TestFlight
+
+---
+
+## 💼 Experience
+- 3+ years of professional experience in iOS development  
+- Worked on production apps in:
+  - Restaurant Management Systems  
+  - E-commerce Applications  
+  - Order & Payment Platforms  
+
+---
+
+## 📱 Featured Projects
+
+### 🍽️ FMB – Fusion My Business
+- Restaurant & takeaway management platform (UK-based)
+- Built payments module using Stripe & Apple Pay
+- Dashboard analytics & order management
+- Tech: Swift, UIKit, Firebase, MVVM
+
+---
+
+### 🛒 BuyMote (E-Commerce App)
+- Grocery shopping app with cart & delivery system
+- Real-time API integration using Alamofire
+- Tech: Swift, UIKit, REST APIs
+
+---
+
+### ⚡ Jiffy Restaurant App
+- Order management system for restaurants
+- Reduced in-store crowding with real-time tracking
+- Tech: Swift, Firebase, MVVM
+
+---
+
+
+## 📫 Contact Me
+- 📧 Email: shanmupriyapandian@gmail.com  
+- 📞 Phone: +91 9600623803  
+- 📍 Chennai, India  
+- 💼 LinkedIn: https://linkedin.com/in/shanmugapriya-t6b8191222  
+
+---
+
+## ✨ About Me
+I focus on building clean, scalable, and high-performance iOS applications.  
+I enjoy solving complex problems, especially in **payment systems and API integrations**, while maintaining a smooth user experience.
+
+---
+
+⭐️ *Open to new opportunities and collaborations*
